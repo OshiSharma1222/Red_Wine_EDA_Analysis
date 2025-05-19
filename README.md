@@ -1,4 +1,5 @@
-🍷 Red Wine Quality Dataset - Exploratory Data Analysis (EDA)
+ 🍷𝐑𝐞𝐝 𝐖𝐢𝐧𝐞 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐃𝐚𝐭𝐚𝐬𝐞𝐭 - 𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 (𝐄𝐃𝐀)
+
 📊 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Red Wine Quality Dataset. The dataset contains physicochemical properties of red wine samples and their associated quality ratings, which range from 3 to 8. The goal of the analysis is to understand the distribution, relationships, and key influencing factors on wine quality.
 
